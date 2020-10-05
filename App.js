@@ -6,7 +6,7 @@ import FacebookLogin from "./components/FacebookLogin"
 import TheLight from "./components/TheLight"
 
 export default function App() {
-  //return <MomoLogin />;
-  return <FacebookLogin />;
+  return <MomoLogin />;
+  //return <FacebookLogin />;
   //return <TheLight />
 }
