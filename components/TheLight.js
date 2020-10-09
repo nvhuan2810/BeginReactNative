@@ -1,6 +1,6 @@
 import { StatusBar } from "expo-status-bar";
 import React, { useState } from "react";
-import { Dimensions, Image, SafeAreaView, StyleSheet, Switch, Text, View } from "react-native";
+import { Dimensions, Image, SafeAreaView, StyleSheet, Switch} from "react-native";
 import OnLightImage from "../assets/light/bulb-on.jpg";
 import OffLightImage from "../assets/light/bulb-off.jpg";
 
